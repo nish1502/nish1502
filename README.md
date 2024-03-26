@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/nishitakapkar15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishitakapkar15" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nishita_15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nishita_15" height="30" width="40" /></a>
-<a href="[https://www.codingninjas.com/studio/profile/e5aeabc8-e29a-4a25-a3e7-899f035e4f88]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/coding-ninjas.svg" alt="nishita_15" height="30" width="40" /></a>
+/*<a href="[https://www.codingninjas.com/studio/profile/e5aeabc8-e29a-4a25-a3e7-899f035e4f88]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/coding-ninjas.svg" alt="nishita_15" height="30" width="40" /></a>*/
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
