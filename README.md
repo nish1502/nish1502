@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩‍💻 Hey there! I'm Nishita, a software enthusiast exploring the realms of coding and beyond. Currently:<br><br>🔭 Working on a development project<br>🌱 Learning DSA in Java, Machine Learning, PHP<br>📫 Reach me at: nishitakapkar15@gmail.com<br>⚡ Fun fact: I thrive on coffee<br><br>
+👩‍💻 Hey there! I'm Nishita, a software enthusiast exploring the realms of coding and beyond. Currently:<br><br>🔭 Working on a development project<br>🌱 Learning DSA in Java, Python and Machine Learning <br>📫 Reach me at: nishitakapkar15@gmail.com<br>⚡ Fun fact: I thrive on coffee<br><br>
 
 
 ## 🌐 Socials:
