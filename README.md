@@ -35,7 +35,7 @@
 
 | Project | What it does | Stack | Impact |
 |---|---|---|---|
-| **[MenoMapApp](https://github.com/nish1502/MenoMapApp)** | AI-powered menopause health companion | XGBoost · React Native · Firebase · MongoDB | 🏅 Patent Pending |
+| **[MenoMapApp](https://github.com/nish1502/MenoMapApp)** | AI-powered menopause health companion | XGBoost · React Native · Firebase · MongoDB | 🏅 Copyright Pending |
 | **[RakshaMed](https://github.com/nish1502/RakshaMed)** | Family medication tracker | React · Node.js · MongoDB | 🥇 Best Healthcare Innovation, Code Automata National Hackathon |
 | **[SafarNext](https://github.com/nish1502/SafarNext)** | AI heritage site booking platform | Random Forest · Flask · MySQL | 📄 Published — Confluence of Law & Engineering, June 2025 |
 | **[Zomato AI](https://github.com/nish1502/Zomato-AI-Restaurant-Recommendation-Service)** | AI restaurant recommendation engine | Python · ML | Production-grade recommendation logic |
