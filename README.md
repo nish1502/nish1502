@@ -38,10 +38,10 @@
 | **[MenoMapApp](https://github.com/nish1502/MenoMapApp)** | AI-powered menopause health companion | XGBoost · React Native · Firebase · MongoDB | 🏅 Patent Pending |
 | **[RakshaMed](https://github.com/nish1502/RakshaMed)** | Family medication tracker | React · Node.js · MongoDB | 🥇 1st Place + Best Healthcare Innovation, Code Automata National Hackathon |
 | **[SafarNext](https://github.com/nish1502/SafarNext)** | AI heritage site booking platform | Random Forest · Flask · MySQL | 📄 Published — Confluence of Law & Engineering, June 2025 |
-| **[Kitabe](https://github.com/nish1502/Kitabe)** | Personalised book recommendation system | Scikit-learn · Surprise · MySQL | 📄 Published — ICETAO 2025 Proceedings |
+<!--| **[Kitabe](https://github.com/nish1502/Kitabe)** | Personalised book recommendation system | Scikit-learn · Surprise · MySQL | 📄 Published — ICETAO 2025 Proceedings |-->
 | **[Zomato AI](https://github.com/nish1502/Zomato-AI-Restaurant-Recommendation-Service)** | AI restaurant recommendation engine | Python · ML | Production-grade recommendation logic |
 | **[mf-rag-faq-indmoney](https://github.com/nish1502/mf-rag-faq-indmoney)** | RAG pipeline for mutual fund FAQs | LangChain · RAG · Python | End-to-end GenAI pipeline |
-| **[Zapier AI Copilot](https://github.com/nish1502/zapier-ai-copilot)** | AI setup & deployment assistant | GPT-4 · LangChain | Designed from first principles |
+| **[Zapier AI Copilot](https://drive.google.com/file/d/15IJkCygS6BPd1ZklvM-LinKyq8DQkurO/view?usp=sharing)** | Product Development | Designed from first principles |
 | **[Scrappy](https://github.com/nish1502/Scrappy)** | Scrap management platform | React · PHP · MySQL | Full-stack marketplace |
 
 ---
@@ -119,6 +119,7 @@ Because staying curious about adjacent technologies is part of the job.
 ## what's next
 
 ```
+<!-- 📍  NYC — incoming MS student, August 2026 -->
 🎯  Goal: AI Product Manager at an AI-first company
 🛤️  Path: APM → AI PM → Senior AI PM → CPO
 💡  Currently obsessed with: agentic AI, trust design, AI product metrics
