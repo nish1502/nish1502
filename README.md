@@ -118,7 +118,6 @@ Because staying curious about adjacent technologies is part of the job.
 ## what's next
 
 ```
-<!-- 📍  NYC — incoming MS student, August 2026 -->
 🎯  Goal: AI Product Manager at an AI-first company
 🛤️  Path: APM → AI PM → Senior AI PM → CPO
 💡  Currently obsessed with: agentic AI, trust design, AI product metrics
