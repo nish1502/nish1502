@@ -129,7 +129,7 @@ Because staying curious about adjacent technologies is part of the job.
 
 If you're building something in AI, working on products for underserved users, or just want to swap notes on product thinking — I'm always up for a conversation.
 
-📬 nishitakapkar15@gmail.com
+📬 nishitakapkar15.work@gmail.com
 
 ---
 
