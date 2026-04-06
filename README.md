@@ -1,143 +1,153 @@
 <div align="center">
-
-# hi, i'm nishita. 👋
-
-**AI Product Manager · Builder · Founder**
-
-*I sit at the intersection of AI systems and human problems.*
-*I don't just understand products — I build them, ship them, and obsess over why people use them.*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-nishitakapkar15-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/nishitakapkar15)
-[![Substack](https://img.shields.io/badge/Substack-BehindTheRoadmap-FF6719?style=flat&logo=substack&logoColor=white)](https://behindtheroadmap.substack.com)
-[![Instagram](https://img.shields.io/badge/Instagram-@behindtheroadmap-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/behindtheroadmap)
-
+ 
+# nishita kapkar
+ 
+**AI Systems Builder · GenAI · RAG Pipelines · LLM Agents · Applied ML**
+ 
+`RAG` `LLM Agents` `Voice AI` `End-to-End AI Systems` `API Integration` `Applied GenAI`
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nishitakapkar15-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/nishitakapkar15)
+[![Substack](https://img.shields.io/badge/Substack-BehindTheRoadmap-FF6719?style=flat&logo=substack)](https://behindtheroadmap.substack.com)
+[![Email](https://img.shields.io/badge/Email-nishitakapkar15.work@gmail.com-EA4335?style=flat&logo=gmail)](mailto:nishitakapkar15.work@gmail.com)
+ 
 </div>
-
+ 
 ---
-
-## what i'm building right now
-
-```
-🧠  Elaris.ai          —  AI companion for international students navigating life abroad
-                           "Confidence for life away from home."
-                           Stage: MVP · Strategy: India-incorporated · Launch: coming soon
-
-📝  BehindTheRoadmap   —  Content brand for AI PM education, product teardowns, founder mindset
-                           Platform: Substack · Instagram · LinkedIn
-
-🤖  NextLeap GenAI     —  Applied Generative AI Bootcamp (Feb–Apr 2026)
-    Bootcamp               LLMs · RAG · Agents · Voice AI · Evals · Prototyping
-```
-
----
-
-## things i've shipped
-
-| Project | What it does | Stack | Impact |
-|---|---|---|---|
-| **[MenoMapApp](https://github.com/nish1502/MenoMapApp)** | AI-powered menopause health companion | XGBoost · React Native · Firebase · MongoDB | 🏅 Copyright Pending |
-| **[RakshaMed](https://github.com/nish1502/RakshaMed)** | Family medication tracker | React · Node.js · MongoDB | 🥇 Best Healthcare Innovation, Code Automata National Hackathon |
-| **[SafarNext](https://github.com/nish1502/SafarNext)** | AI heritage site booking platform | Random Forest · Flask · MySQL | 📄 Published — Confluence of Law & Engineering, June 2025 |
-| **[Zomato AI](https://github.com/nish1502/Zomato-AI-Restaurant-Recommendation-Service)** | AI restaurant recommendation engine | Python · ML | Production-grade recommendation logic |
-| **[mf-rag-faq-indmoney](https://github.com/nish1502/mf-rag-faq-indmoney)** | RAG pipeline for mutual fund FAQs | LangChain · RAG · Python | End-to-end GenAI pipeline |
-| **[flowsense-ai](https://github.com/nish1502/flowsense-ai)** | Predictive Crowd Risk Management System | Agent-Based Simulation · Data Analytics · Agentic AI · GenAI | End-to-End AI Safety Platform |
-| **[Zapier AI Copilot](https://drive.google.com/file/d/15IJkCygS6BPd1ZklvM-LinKyq8DQkurO/view?usp=sharing)** | Product Development | Designed from first principles |
-| **[Scrappy](https://github.com/nish1502/Scrappy)** | Scrap management platform | React · PHP · MySQL | Full-stack marketplace |
-<!--| **[Kitabe](https://github.com/nish1502/Kitabe)** | Personalised book recommendation system | Scikit-learn · Surprise · MySQL | 📄 Published — ICETAO 2025 Proceedings |-->
----
-
-## the PM lens I bring
-
-I'm not just a developer who learned PM frameworks. I've been a PM practitioner:
-
-- **NextLeap Top PM Fellow** — top of cohort, PM frameworks, product sense, metrics, execution
-- **Tech PM Intern @ Linkific** — AI startup, shipping product in production
-- **Product & Ops Intern @ RV Networking** — cross-functional, constraints-driven, real tradeoffs
-- **Technical Ops Intern @ BizKonnect** — where I first saw how products break in the real world
-
-The through-line: I understand how products get built (engineering), how they break (operations), and how to make them better (product thinking). That's the combination I bring to every repo here.
-
----
-
-## what I know
-
+ 
+## stack
+ 
 ```python
-# languages & frameworks
-languages   = ["Python", "JavaScript", "C", "C++", "React Native", "PHP", "MySQL", "MongoDB"]
-web         = ["React", "HTML5", "CSS3", "Bootstrap", "WordPress", "AWS"]
-
-# AI / ML
-ai_ml       = ["XGBoost", "Scikit-learn", "Random Forest", "LangChain",
-               "RAG Pipelines", "Prompt Engineering", "Generative AI", "NLP"]
-
-# product toolkit
-product     = ["Figma", "Whimsical", "Jira", "Notion", "PRDs", "A/B Testing",
-               "User Research", "KPI Mapping", "System Outcome Mapping", "Funnel Analysis"]
-
-# analytics
-analytics   = ["Amplitude", "Dashboarding", "Data Cleaning", "Product Metrics"]
+genai       = ["LangChain", "RAG Pipelines", "LLM Agents", "Prompt Engineering",
+               "Voice AI", "Evals", "Agentic AI"]
+ml          = ["XGBoost", "Scikit-learn", "Random Forest", "NLP"]
+backend     = ["Flask", "Node.js", "REST APIs", "Firebase", "AWS"]
+languages   = ["Python", "JavaScript", "C", "C++", "PHP"]
+data        = ["MongoDB", "MySQL", "Amplitude", "Dashboarding"]
+frontend    = ["React", "React Native", "HTML5", "CSS3"]
 ```
-
+ 
 ---
-
-## published work
-
-📄 **"SafarNext: AI-Powered Heritage Site Booking Platform"**
-Confluence of Law & Engineering Vol. I, CARE — June 2025
-
-📄 **"Kitabe: Personalized Book Recommendation System"**
-ICETAO 2025 Proceedings — March 2025
-
+ 
+## systems built
+ 
+### [mf-rag-faq-indmoney](https://github.com/nish1502/mf-rag-faq-indmoney) · `RAG Pipeline`
+```
+PDF/FAQ corpus → LangChain chunking → vector store → LLM retrieval → structured answer
+```
+End-to-end RAG pipeline for mutual fund FAQ resolution. Handles document ingestion,
+embedding, semantic retrieval, and grounded LLM response generation. Full RAG
+architecture from ingest to eval.
+ 
 ---
-
-## awards that meant something
-
+ 
+### [flowsense-ai](https://github.com/nish1502/flowsense-ai) · `Agentic AI` · `GenAI`
+```
+Sensor/event data → agent simulation → risk scoring engine → real-time alert output
+```
+Predictive crowd risk management using agent-based simulation and GenAI. Multi-agent
+coordination across data ingestion, risk modeling, and alert dispatch. End-to-end AI
+safety platform with real-world deployment logic.
+ 
+---
+ 
+### Elaris.ai · `LLM + Voice AI` · *In Build*
+```
+User query (voice/text) → intent parsing → context-aware LLM → localized guidance output
+```
+AI companion for international students navigating life abroad. Integrates voice AI,
+intent modeling, and LLM-driven response for real-world navigation tasks.  
+↳ Solves trust + context gap for 5M+ Indian students studying abroad.
+ 
+---
+ 
+### [MenoMapApp](https://github.com/nish1502/MenoMapApp) · `Predictive ML` · `Mobile`
+```
+User symptom input → XGBoost classifier → Firebase → React Native UI
+```
+AI-powered menopause health companion. ML model predicts health states from symptom
+data with full-stack mobile implementation. Copyright Pending.  
+↳ 🥇 1st Place + Best Healthcare Innovation — Code Automata National Hackathon
+ 
+---
+ 
+### [SafarNext](https://github.com/nish1502/SafarNext) · `ML + API`
+```
+User preferences → Random Forest ranker → Flask API → booking interface (MySQL)
+```
+AI-powered heritage site discovery and booking. ML recommendation layer on a full-stack
+Flask + MySQL backend.  
+↳ Published — Confluence of Law & Engineering, June 2025
+ 
+---
+ 
+### [Zomato AI Recommendation Engine](https://github.com/nish1502/Zomato-AI-Restaurant-Recommendation-Service) · `Applied ML`
+```
+User behavior data → feature engineering → ML ranking model → ranked restaurant output
+```
+Production-grade restaurant recommendation system replicating real-world recommendation
+engine logic at scale.
+ 
+---
+ 
+### [RakshaMed](https://github.com/nish1502/RakshaMed) · `Full Stack`
+```
+Medication data → Node.js API → React frontend → MongoDB
+```
+Family medication tracker. Focused on reliability and multi-user data management.  
+↳ 🥇 Best Healthcare Innovation — Code Automata National Hackathon (co-awarded)
+ 
+---
+ 
+### [Scrappy](https://github.com/nish1502/Scrappy) · `Full Stack Marketplace`
+```
+Listings → PHP backend → React frontend → MySQL
+```
+Full-stack scrap management marketplace. End-to-end: listings, transactions, user flows.
+ 
+---
+ 
+## published
+ 
+- **"SafarNext: AI-Powered Heritage Site Booking Platform"** — Confluence of Law & Engineering, June 2025  
+- **"Kitabe: Personalized Book Recommendation System"** — ICETAO 2025 Proceedings, March 2025
+ 
+---
+ 
+## awards
+ 
 ```
 🥇  1st Place + Best Healthcare Innovation — Code Automata National Hackathon (Apr 2025)
 🏆  Finalist — Smart India Hackathon 2024
-📜  Best Paper Award — Technovate National Competition
 🎯  Finalist — Sankalp Ideathon 2025 (CSI)
+📜  Best Paper Award — Technovate National Competition
+⭐  NextLeap Top PM Fellow (top of cohort)
 🌐  ACM India Outstanding Chapter Activities Award 2025
-⭐  NextLeap Top PM Fellow
 ```
-
+ 
 ---
-
-## beyond the code
-
-**Webmaster, ACM-W RAIT (2024–2025)**
-Ran a 25-person team. Raised $6,500 in sponsorships. Organised KLEOS 3.0, Tynet 2.0, Mentorverse 2024. Edited Equinox Magazine. Proof that I can ship things that aren't software too.
-
-**Founder, BehindTheRoadmap**
-A content platform for people who want to understand what AI PMs actually do — not just the job description, but the thinking. I write about product frameworks, AI teardowns, and the founder mindset.
-
-**SheFi Scholar — Web3 & DeFi Fellowship (May–Jul 2025)**
-Because staying curious about adjacent technologies is part of the job.
-
+ 
+## the 20% that makes the 80% ship better
+ 
+AI PM training (NextLeap) + production shipping (Linkific) + ops (RV Networking, BizKonnect)  
+= I understand how AI systems fail in the real world — not just how to build them in a notebook.
+ 
+Currently obsessed with: **agentic AI · trust design in LLM systems · AI evals**
+ 
 ---
-
-## what's next
-
+ 
+## currently
+ 
 ```
-🎯  Goal: AI Product Manager at an AI-first company
-🛤️  Path: APM → AI PM → Senior AI PM → CPO
-💡  Currently obsessed with: agentic AI, trust design, AI product metrics
+🧠  Building:  Elaris.ai (AI companion, MVP stage)
+📚  Learning:  Applied GenAI Bootcamp — LLMs, RAG, Agents, Voice AI, Evals
+🎯  Goal:      AI Engineer / Applied AI role at an AI-first company
 ```
-
+ 
 ---
-
-## let's talk
-
-If you're building something in AI, working on products for underserved users, or just want to swap notes on product thinking — I'm always up for a conversation.
-
-📬 nishitakapkar15.work@gmail.com
-
----
-
+ 
 <div align="center">
-
-*"The best PMs I've met don't just ship features. They understand why people need them."*
-
-![Profile views](https://komarev.com/ghpvc/?username=nish1502&color=0A7EA4&style=flat)
-
+<sub>I build things. Then I figure out why they work.</sub>
+ 
+![Profile views](https://komarev.com/ghpvc/?username=nish1502&color=185FA5&style=flat)
 </div>
+ 
